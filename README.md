@@ -11,7 +11,7 @@ Skills: HTML / CSS / Bootstrap / Python
 - 🌱 I’m currently learning Python 
 - 👯 I’m looking to collaborate on GitHub 
 - 🤔 I’m looking for help with Professional web developer 
-- 💬 Ask me about Python 
+- 💬 Ask me about web development 
 - 📫 How to reach me: Twitter : https://twitter.com/MdMajidulKhan10  
 
 
