@@ -4,7 +4,7 @@
 #### I am a web developer
 
 
-I am a computer engineering student. I know HTML, CSS, Bootstrap,  Python. and i am still learning Python.
+I am a computer engineering student . I know HTML, CSS, Bootstrap, Python .
 
 Skills: HTML / CSS / Bootstrap / Python
 
