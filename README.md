@@ -12,7 +12,7 @@ I am excited to bring my passion for web development and my eagerness to learn t
 
 #### ✅ Skills :
 
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning Javascript.
 - 👯 I’m looking to collaborate on GitHub.
 - 🤔 I’m looking for help with Professional web developer.
 - 🥰 Proficiency in web development languages such as HTML, CSS, Bootstrap and JavaScript.
