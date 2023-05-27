@@ -17,7 +17,7 @@ I am excited to bring my passion for web development and my eagerness to learn t
 - 🤔 I’m looking for help with Professional web developer.
 - 🥰 Proficiency in web development languages such as HTML, CSS, Bootstrap and JavaScript.
 - 😊 Experience with web development framework React.js.
-- ✨ Basic understanding of web design principles and experience working with design tools such as Adobe Photoshop, Adobe Illustrator.
+- ✨ Basic understanding of web design principles and experience working with design tools such as Adobe Photoshop, Adobe Illustrator, Adobe XD.
 - 🧑‍💻 Knowledge of version control system such as Git.
 - 🌎 Excellent problem-solving and analytical skills.
 - 🧑‍🤝‍🧑 Strong communication and collaboration abilities for working in a team environment.
