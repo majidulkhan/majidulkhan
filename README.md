@@ -1,4 +1,4 @@
-![I am a web developer]([https://github.com/majidulkhan/majidulkhan/blob/main/MAJIDUL%202.png?raw=true](https://github.com/majidulkhan/majidulkhan/blob/main/MAJIDUL%202.png?raw=true))
+<img align="right" alt="Web developer" width="100%" src="https://github.com/majidulkhan/majidulkhan/blob/main/MAJIDUL%202.png?raw=true">
 
 ### Hi there 👋, My Name Is Md Majidul Islam Khan
  
