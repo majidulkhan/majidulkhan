@@ -1,4 +1,4 @@
-![I am a web developer]([https://pbs.twimg.com/profile_banners/1566711047264018433/1662373417/600x200](https://github.com/majidulkhan/majidulkhan/blob/main/MAJIDUL%202.png?raw=true))
+![I am a web developer]([https://github.com/majidulkhan/majidulkhan/blob/main/MAJIDUL%202.png?raw=true](https://github.com/majidulkhan/majidulkhan/blob/main/MAJIDUL%202.png?raw=true))
 
 ### Hi there 👋, My Name Is Md Majidul Islam Khan
  
