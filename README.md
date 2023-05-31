@@ -25,7 +25,10 @@ I am excited to bring my passion for web development and my eagerness to learn t
 - 💬 Ask me about web development.
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/majidulkhan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mdmajidul.khan.564)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>]([https://www.instagram.com/https://www.instagram.com/mdmajidulislamkhan//](https://www.instagram.com/mdmajidulislamkhan/))  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>]([https://twitter.com/https://twitter.com/MdMajidulKhan10](https://twitter.com/MdMajidulKhan10))[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>]([https://linkedin.com/https://linkedin.com/in/md-majidul-islam-khan](https://www.linkedin.com/in/md-majidul-islam-khan/))
+<a href="https://twitter.com/mdmajidulkhan10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mdmajidulkhan10" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/md-majidul-islam-khan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-majidul-islam-khan/" height="30" width="40" /></a>
+<a href="https://fb.com/majidulkhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="majidulkhan" height="30" width="40" /></a>
+<a href="https://instagram.com/mdmajidulislamkhan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mdmajidulislamkhan/" height="30" width="40" /></a>
 
 ![Profile views](https://gpvc.arturio.dev/majidulkhan)  
 
