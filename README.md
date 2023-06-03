@@ -1,4 +1,4 @@
-<img align="right" alt="Web developer" width="100%" src="https://github.com/majidulkhan/majidulkhan/blob/main/MAJIDUL%202.png?raw=true">
+<img align="right" alt="Web developer" width="100%" src="https://www.canva.com/design/DAFeBZVKLfs/UMtn0DyVNk4lS9m2izTScA/view?utm_content=DAFeBZVKLfs&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">
 
 ### Hi there 👋, My Name Is Md Majidul Islam Khan
  
