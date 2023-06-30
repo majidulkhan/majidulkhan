@@ -1,5 +1,3 @@
-<img align="right" alt="Web developer" width="100%" src="https://www.canva.com/design/DAFeBZVKLfs/UMtn0DyVNk4lS9m2izTScA/view?utm_content=DAFeBZVKLfs&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">
-
 ### Hi there 👋, My Name Is Md Majidul Islam Khan
  
 A passionate Web Developer, who is passionate about creating beautiful, functional websites and applications that are user-friendly and accessible to all. I have a strong foundation in web development technologies such as HTML, CSS, Bootstrap, JavaScript and I am eager to continue learning and expanding my skillset.
@@ -27,10 +25,8 @@ I am excited to bring my passion for web development and my eagerness to learn t
 
 <a href="https://twitter.com/mdmajidulkhan10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mdmajidulkhan10" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/md-majidul-islam-khan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-majidul-islam-khan/" height="30" width="40" /></a>
-<a href="https://fb.com/majidulkhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="majidulkhan" height="30" width="40" /></a>
+<a href="https://fb.com/md.majidul.islam.khan.personal.fb.id" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="majidulkhan" height="30" width="40" /></a>
 <a href="https://instagram.com/mdmajidulislamkhan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mdmajidulislamkhan/" height="30" width="40" /></a>
-
-![Profile views](https://gpvc.arturio.dev/majidulkhan)  
 
 
 <h3 align="left">Languages and Tools:</h3>
