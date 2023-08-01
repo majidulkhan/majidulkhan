@@ -8,7 +8,6 @@ In addition to my technical skills, I am committed to continuous learning and pr
 
 I am excited to bring my passion for web development and my eagerness to learn to a team that values innovation and collaboration.
 
-#### ✅ Skills :
 
 - 🌱 I’m currently learning Javascript.
 - 👯 I’m looking to collaborate on GitHub.
