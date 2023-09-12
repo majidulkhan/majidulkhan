@@ -10,7 +10,7 @@ I will provide such database work : ✅ MySQLi procedural ✅ MySQLi OOP With PH
 
 ✔ I have successfully delivered many complex e-commerce and business sites and content management systems to clients so far. If you’re looking for a skilled and reliable Full Stack Web Developer, look no further. Let’s work together to bring your vision to life!
 
-- 💬 Ask me about web development.
+
 
 
 <a href="https://twitter.com/mdmajidulkhan10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mdmajidulkhan10" height="30" width="40" /></a>
