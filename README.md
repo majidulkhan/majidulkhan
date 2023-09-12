@@ -14,7 +14,7 @@ I will provide such database work : ✅ MySQLi procedural ✅ MySQLi OOP With PH
 
 
 <a href="https://twitter.com/mdmajidulkhan10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mdmajidulkhan10" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/md-majidul-islam-khan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-majidul-islam-khan/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mdmajidulislamkhan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mdmajidulislamkhan/" height="30" width="40" /></a>
 <a href="https://fb.com/md.majidul.islam.khan.personal.fb.id" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="majidulkhan" height="30" width="40" /></a>
 <a href="https://instagram.com/mdmajidulislamkhan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mdmajidulislamkhan/" height="30" width="40" /></a>
 
