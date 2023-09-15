@@ -9,15 +9,27 @@ In addition to my technical skills, I am committed to continuous learning and pr
 I am excited to bring my passion for web development and my eagerness to learn to a team that values innovation and collaboration.
 
 
+
+
+
 🌱 I’m currently learning JavaScript.
+
 👯 I’m looking to collaborate on GitHub.
+
 🤔 I’m looking for help with Professional web developer.
+
 🥰 Proficiency in web development languages such as HTML, CSS, Bootstrap and JavaScript.
+
 😊 Experience with web development framework React.js.
+
 ✨ Basic understanding of web design principles and experience working with design tools such as Adobe Photoshop, Adobe Illustrator, Adobe XD.
+
 🧑‍💻 Knowledge of version control system such as Git.
+
 🌎 Excellent problem-solving and analytical skills.
+
 🧑‍🤝‍🧑 Strong communication and collaboration abilities for working in a team environment.
+
 🕙 Willingness to learn and keep up with the latest developments in web development.
 
 
